@@ -21,3 +21,5 @@ Not all hackers are crackers. Some hackers are crackers.
 hackers wear several different hats, see also "whitehat", "greyhat", "blackhat", "redhat"
 
 Strive to be a "tophat" hacker... the best in your field, provide solution as a value
+
+explore open source technology and learn how to use it
